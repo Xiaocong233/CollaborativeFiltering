@@ -1,5 +1,5 @@
 ## Description
-Contains a series of MATLAB Collobrative Filtering functions and Python Apriori and Eclat templates for constructing different machine learning recommender systems
+Contains a series of MATLAB/Octave Collobrative Filtering functions and for constructing different machine learning recommender systems
 
 ## Collobrative Filtering
 ```
